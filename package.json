@@ -1,0 +1,34 @@
+{
+  "name": "@costadvl/buque",
+  "version": "0.0.1",
+  "description": "dependency inversion container",
+  "main": "lib/index.js",
+  "dependencies": {
+    "@costadvl/school-bus": "0.0.3",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "@types/uuid": "^8.3.0",
+    "typescript": "^4.3.2",
+    "ts-node": "^9.0.0"
+  },
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vadimMelenciuc/buque.git"
+  },
+  "keywords": [
+    "dependency",
+    "inversion",
+    "IoC",
+    "container"
+  ],
+  "author": "Vadim Melenciuc",
+  "license": "Apache License 2.0",
+  "bugs": {
+    "url": "https://github.com/vadimMelenciuc/buque/issues"
+  },
+  "homepage": "https://github.com/vadimMelenciuc/buque#readme"
+}

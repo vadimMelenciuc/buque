@@ -1,0 +1,17 @@
+lib
+.vscode
+.nyc_output
+coverage
+docs
+lib/**/*.mock.*
+lib/**/*.spec.*
+node_modules
+src
+.gitignore
+.npmignore
+tsconfig.json
+tslint.json
+package-lock.json
+.vscode
+.npmrc
+.github
