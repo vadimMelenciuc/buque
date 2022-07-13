@@ -1,3 +1,4 @@
+[![DeepScan grade](https://deepscan.io/api/teams/18296/projects/21623/branches/626411/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=18296&pid=21623&bid=626411)
 # buque
 Dependency injection container
 
